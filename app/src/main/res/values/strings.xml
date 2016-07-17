@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Aawaz</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_learn_main_page">Learning</string>
+    <string name="title_activity_life_style">LifeStyle</string>
+    <string name="title_activity_video_page">Video</string>
+    <string name="title_activity_study_page">Study</string>
+
+</resources>
